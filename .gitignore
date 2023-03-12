@@ -1,2 +1,7 @@
 
-*.csv
+
+datasets/test_with_polarity.csv
+datasets/train_with_polarity.csv
+datasets/evaluation_dataset.csv
+datasets/evaluation_dataset.xlsx
+data_cleaning/preprocessed_train_data.csv
